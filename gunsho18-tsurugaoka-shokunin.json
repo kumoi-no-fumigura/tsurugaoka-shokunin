@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsurugaoka-shokunin",
  "yomi": "つるがおかほうじょうえしょくにんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "職人歌合",
+  "era": "鎌倉時代",
+  "author": "未詳（判者 鶴岡八幡宮神主）",
+  "desc": "鶴岡八幡宮の八月十五日の放生会に集まった職人たちが、東北院職人歌合にならって「月」と「恋」の題で歌を合わせる趣向の歌合。判者は社の神主とする。"
+ },
  "editions": [
   {
    "pid": "1879575",
